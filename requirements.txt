@@ -1,0 +1,34 @@
+# EyeMouse AI Ultra - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Vision
+opencv-python
+mediapipe
+
+# GUI
+customtkinter
+Pillow
+
+# System Control
+pyautogui
+pynput
+pyperclip
+
+# Scientific
+numpy
+scipy
+
+# Security
+bcrypt
+cryptography
+
+# Voice
+SpeechRecognition
+pyttsx3
+pyaudio
+
+# Windows Native
+pywin32
+
+# Packaging (for build step only)
+pyinstaller
